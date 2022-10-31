@@ -34,6 +34,17 @@ namespace Principal
             Console.WriteLine("------------- Pessoa --------------");
             Console.WriteLine("Id da Pessoa: {0} Nome da Pessoa: {1} CPF: {2}", pessoa.id, pessoa.nome, pessoa.cpf);
 
+
+            Telefone.Telefone telefone = new Telefone.Telefone();
+
+            telefone.id = 5;
+            telefone.numero = 985850569;
+            telefone.ddd = 11;
+
+            Console.WriteLine("------------- Telefone --------------");
+            Console.WriteLine("ID do Telefone {0}, Numero de Telefone: {1} {2}", telefone.id, telefone.ddd, telefone.numero);
+
+
         }
     }
 }
