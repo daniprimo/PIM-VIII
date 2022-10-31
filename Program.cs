@@ -23,7 +23,17 @@ namespace Principal
             Console.WriteLine("Cep {0}", endereco.cep);
             Console.WriteLine("Bairro {0}", endereco.bairro);
             Console.WriteLine("Cidade {0}", endereco.cidade);
-            Console.WriteLine("Estado {0}", endereco.estado);
+
+
+            Pessoa.Pessoa pessoa = new Pessoa.Pessoa();
+
+            pessoa.id = 1;
+            pessoa.nome = "Daniel";
+            pessoa.cpf = 06358;
+
+            Console.WriteLine("------------- Pessoa --------------");
+            Console.WriteLine("Id da Pessoa: {0} Nome da Pessoa: {1} CPF: {2}", pessoa.id, pessoa.nome, pessoa.cpf);
+
         }
     }
 }
