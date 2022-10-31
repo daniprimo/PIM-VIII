@@ -1,0 +1,15 @@
+C:\Users\DLLM\documents\pim\pimviii\bin\Debug\net6.0\pimVIII.exe
+C:\Users\DLLM\documents\pim\pimviii\bin\Debug\net6.0\pimVIII.deps.json
+C:\Users\DLLM\documents\pim\pimviii\bin\Debug\net6.0\pimVIII.runtimeconfig.json
+C:\Users\DLLM\documents\pim\pimviii\bin\Debug\net6.0\pimVIII.dll
+C:\Users\DLLM\documents\pim\pimviii\bin\Debug\net6.0\pimVIII.pdb
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.csproj.AssemblyReference.cache
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.AssemblyInfoInputs.cache
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.AssemblyInfo.cs
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.csproj.CoreCompileInputs.cache
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.dll
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\refint\pimVIII.dll
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.pdb
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\pimVIII.genruntimeconfig.cache
+C:\Users\DLLM\documents\pim\pimviii\obj\Debug\net6.0\ref\pimVIII.dll
