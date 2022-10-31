@@ -45,6 +45,14 @@ namespace Principal
             Console.WriteLine("ID do Telefone {0}, Numero de Telefone: {1} {2}", telefone.id, telefone.ddd, telefone.numero);
 
 
+            TipoTelefone.Tipo tipo = new TipoTelefone.Tipo();
+
+            tipo.id = 1;
+            tipo.tipo = "Celular";
+
+            Console.WriteLine("------------ Tipo -------------");
+            Console.WriteLine("Id: {0} Tipo: {1}", tipo.id, tipo.tipo);
+
         }
     }
 }
